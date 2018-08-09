@@ -1,4 +1,4 @@
-# HTTP Request
+# Request Message
 
 The HTTP protocol only allows the client to initiate a request, and only allows the server to return a response for the request. We have seen examples of requests, and now we specifically understand the composition of HTTP request messages. The request message includes a first line, a header fields, and a request body.
 
